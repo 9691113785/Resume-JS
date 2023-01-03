@@ -153,6 +153,7 @@ nav{
     color: #105652;
     margin-bottom: 12px;
     margin-top: 0px;
+    font-size: 0.8em;
     
 }
 
@@ -491,6 +492,9 @@ footer{
        width: 50%;
        text-align: center;
       
+    }
+    .main-display-image{
+        font-size: 0.8em;
     }
 
 
